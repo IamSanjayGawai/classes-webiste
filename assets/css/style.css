@@ -343,7 +343,9 @@ p {
     font-size: 3rem;
     word-break: break-all;
   }
+<<<<<<< HEAD
 }
+=======
   .our-features .features-card .features-card-body {
     font-family: "Roboto", serif;
     position: relative;
@@ -461,3 +463,4 @@ p {
   .material-symbols-outlined {
     vertical-align: middle;
   }
+>>>>>>> 799feaeb4a3c7f2d230c57c0f5ba816049d340ee
